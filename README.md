@@ -15,7 +15,7 @@ The analysis uses the classic **AirPassengers** dataset — a benchmark time-ser
 * **Date Range:** 1949 – 1960
 * **Observations:** 144
 
-The dataset is available in many Python libraries (e.g., `statsmodels.datasets`) and online open data repositories.
+The dataset is available on the link: <a href='https://www.kaggle.com/datasets/ashfakyeafi/air-passenger-data-for-time-series-analysis'>Air passengers data</a>
 
 ---
 
